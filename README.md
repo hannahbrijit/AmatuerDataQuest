@@ -35,4 +35,4 @@ Play around: Change the code, tweak the models, visualize new things - go wild!
 Your suggestions, bug reports, and pull requests are welcome! Feel free to contribute, but remember, it's all fun and games until someone messes up the data cleaning. 😉
 
 # Contact
-If you have any questions, feel free to reach out to me. But if you're a dataset trying to complain about being cleaned, sorry, I don't speak csv.
+If you have any questions, feel free to reach out to me(drop a mail to hannahbrijit@gmail.com). But if you're a dataset trying to complain about being cleaned, sorry, I don't speak csv.
